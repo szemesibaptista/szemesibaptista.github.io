@@ -1,0 +1,1 @@
+Technikai eszközök
