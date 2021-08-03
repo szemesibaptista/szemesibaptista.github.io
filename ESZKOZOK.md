@@ -1,5 +1,8 @@
+---
+title: Eszközök
+subtitle: Technikai eszközeink
 layout: page
-title: "Eszközök"
-permalink: /eszkozok/
+show_sidebar: false
+---
 
-Technikai eszközök
+Ide kerülhet az eszközök listája.
